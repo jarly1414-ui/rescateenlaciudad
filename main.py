@@ -1,3 +1,6 @@
+#Jarley Arredondo Cedano
+#23-SISN-2-027
+
 import pygame
 import sys
 from personaje import Personaje
@@ -365,6 +368,7 @@ sys.exit()
 
     
             
+
 
 
     
